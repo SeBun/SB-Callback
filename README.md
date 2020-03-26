@@ -1,12 +1,10 @@
 # SB Callback
 ## Бесплатный модуль обратного звонка для Joomla! 3.x
-Простой модуль обратного звонка или для обратной связи. Совместим с Joomla 3.0 и выше.
+Модуль SB Callback представляет собой легко настраиваемый модуль формы обратной связи с функциями 
+обратного звонка. Совместим с Joomla 3.0 и выше. 
 При необходимости дополняется компонентом [Simple Callback Component](https://github.com/birdkiwi/com_simplecallback/releases/), для сохранения сообщений в панели администрирования.
 
 ### Все релизы: https://github.com/SeBun/SB-Callback/releases
-
-## Назначение SB Callback
-### Модуль SB Callback представляет собой легко настраиваемый модуль формы обратной связи с функциями обратного звонка.
 ### [Скачать последнюю версию](https://github.com/SeBun/SB-Callback/releases)
 
 > SB-Callback является форком (копией репозитория) [Бёрд Киви](https://github.com/birdkiwi/mod_simplecallback)  
