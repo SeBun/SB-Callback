@@ -4,7 +4,6 @@
 обратного звонка. Совместим с Joomla 3.0 и выше. 
 При необходимости дополняется компонентом [Simple Callback Component](https://github.com/birdkiwi/com_simplecallback/releases/), для сохранения сообщений в панели администрирования.
 
-### Все релизы: https://github.com/SeBun/SB-Callback/releases
 ### [Скачать последнюю версию](https://github.com/SeBun/SB-Callback/releases)
 
 > SB-Callback является форком (копией репозитория) [Бёрд Киви](https://github.com/birdkiwi/mod_simplecallback)  
